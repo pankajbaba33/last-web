@@ -14,6 +14,9 @@ export default function Navbarr(){
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+          <li>
+            <Link to="/project">Contact</Link>
+          </li>
         </ul>
       </nav>
 
